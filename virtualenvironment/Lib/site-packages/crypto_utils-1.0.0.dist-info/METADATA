@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: crypto-utils
+Version: 1.0.0
+Summary: Blind Signature implementation and conversion functions.
+Home-page: https://github.com/oscar-king/A-Decentralised-Digital-Identity-Architecture/tree/master
+Author: Oscar King
+Author-email: zcaboki@ucl.ac.uk
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+
+UNKNOWN
+
+
